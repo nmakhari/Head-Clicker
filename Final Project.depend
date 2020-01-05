@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1548291073 source:c:\users\nmakh\documents\c++\final project\main.cpp
+	<graphics.h>
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<conio.h>
+	<cmath>
+	<stdio.h>
+	<cstdlib>
+	"header.h"
+	<fstream>
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1548282918 source:c:\users\nmakh\documents\c++\final project\header.cpp
+
+1548290214 c:\users\nmakh\documents\c++\final project\header.h
+	<graphics.h>
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<conio.h>
+	<cmath>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+
